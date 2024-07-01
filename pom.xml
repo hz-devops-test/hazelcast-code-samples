@@ -17,6 +17,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <hazelcast.version>5.4.0</hazelcast.version>
+        <hazelcast.version.next>5.5.0-SNAPSHOT</hazelcast.version.next>
         <java.version>17</java.version>
         <hazelcast-jclouds.version>3.7.2</hazelcast-jclouds.version>
         <hazelcast.hibernate.version>5.1.0</hazelcast.hibernate.version>
